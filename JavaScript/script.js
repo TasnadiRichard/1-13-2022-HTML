@@ -1,1 +1,1 @@
-document.write{"Ezt az ugras2 függvény írta ki <BR>"}
+document.write{"Ezt a script2.js írta ki <BR>"}
