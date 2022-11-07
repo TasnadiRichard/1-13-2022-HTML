@@ -1,4 +1,6 @@
-a=int(input("Írj be egy számot "))
+import random
+a=random.randint(1,100)
+print("Random szám")
 os=0
 for x in range(1,a+1):
     if a%x==0:
