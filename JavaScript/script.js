@@ -1,0 +1,1 @@
+document.write{"Ezt az ugras2 függvény írta ki <BR>"}
