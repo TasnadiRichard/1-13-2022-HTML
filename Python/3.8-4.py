@@ -1,0 +1,1 @@
+Eszti 45 fokkal balrább néz
